@@ -1,0 +1,68 @@
+.hallofFame{
+    margin-top: 18px;
+    font-size: 42px;
+    letter-spacing: 0.20em;
+    text-transform: uppercase;
+    text-align: center;
+    color:gold;
+    text-shadow: 2px 2px 5px black;
+}
+
+.containerBootcamp{
+    display: flex;
+    justify-content: space-evenly;
+    
+  
+}
+.cardCourse{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h3{
+        text-transform: capitalize;
+        letter-spacing: 0.10em;
+        margin-top: 28px;
+        color: rgb(212, 175, 55);
+    }
+}
+.coursesCard{
+    width: 80%;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+    background-color: #fff;  
+    margin-top: 32px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    &:hover{
+        border: 2px solid gold ;
+    }
+}
+
+
+.bootcampersCard{
+    width: 100%;
+    margin-left: 8px;
+    
+    img{
+            cursor: pointer;
+            height: 100px;
+            
+        }
+
+
+}
+
+@media (max-width:767px){
+    .bootcampersCard{
+               a{
+        img{
+                height:60px;
+                
+            }}
+    
+    
+    }
+    .hallofFame{
+        font-size: 22px;
+    }
+    
+}

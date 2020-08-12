@@ -1,0 +1,200 @@
+$oscurito: #000829;
+$antiflash: #edf2f4;
+$red: #ff012b;
+
+.headerContainer{
+    background-color: #fff;
+        h1{
+            text-align: center;
+            font-size: 80px;
+            color: tomato;
+            letter-spacing: 0.12em;
+            width: 100%;
+            padding-top: 28px;
+            text-shadow: 1px 4px 4px black;
+
+            }
+
+}
+.tagsContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    color: #edf2f4;
+    ul{
+        li{
+            color: #ff012b;
+        }
+    }
+}
+.card{
+    height: 400px;
+    width: 16vw;
+    transform-style: preserve-3d;
+    margin-left: 6px;
+    margin-top: 20px;
+    perspective: 600px;
+    transition: .5s;
+    opacity: 0;
+    &:hover .cardFront{
+
+        transform: rotateX(-180deg);
+    }
+    &:hover .cardBack{
+
+        transform: rotateX(0deg);
+    }
+
+}
+  .corona{
+    height: 28px;
+    color: white;
+    background: white;
+    margin-top: 32px;
+  }  
+.superContainer{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.cardFront{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: #000000;
+    backface-visibility: hidden;
+    transform: rotateX(0deg);
+    transition: .5s;
+    img{
+        height: 100%;
+        width: 100%;
+    }
+}
+.containerp5{
+    height: 100px;
+    width: 100px;
+    margin: 12px auto 0px auto
+
+}
+.containerRedes{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-top: 100px;
+}
+.logop5{
+    height: 100px;
+    width: 100px;
+}
+.cardBack{
+
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #00172e;
+    backface-visibility: hidden;
+    transform: rotateX(180deg);
+    transition: .5s;
+    color: #ffffff;
+    text-align: center;
+
+    h2{
+     
+        font-size: 18px
+    
+       }
+    h3{
+        font-size: 16px
+    }
+
+        a{
+
+            height: 20px;
+        width: 20px;
+        padding: 5px 5px;
+        border-radius: 4px;
+        line-height: 20px;
+        &:hover{
+
+            color: #000000;
+            background-color: #fff;
+        }
+        }
+           
+ 
+}
+.margins{
+    margin-top: 20%;
+    padding:8px
+}
+      
+    
+        
+ 
+
+
+
+
+ .bootcampCard{
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+    margin: 0 auto;
+    width: 90%;
+           background-color: #fff;
+       transition: 0.5s;
+       height: 100%;
+       .grillaBootcamp{
+        display: flex;
+        justify-content: space-evenly;
+        width: 100%;
+        flex-wrap: wrap;
+       }
+       .card{
+            opacity: 1;
+        
+       }
+       
+    }
+
+
+
+
+
+footer {
+    margin-top: 32px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: $antiflash;
+    background-color: $oscurito;
+    .left {
+      text-align: center;
+      
+    }
+    .hashtag {
+      color: $red;
+    }
+  }
+  
+  .group {
+    margin: 5%;
+  }
+  
+
+
+  @media (max-width: 1360px) {
+    .card{
+        width: 260px;
+
+    }
+      }
+ 
+  
+
+    
+
+     
+   
