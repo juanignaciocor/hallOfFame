@@ -5,7 +5,7 @@ export default [
         tags: ["#LaCamadaDelCorona", "#Cuarentena2020", "Nose que poner"],
         bootcampers: [
             {
-                "name": "Alexis \"MDQ\" Rocha",
+                "name": "Alexis \"Lobby\" Rocha",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/1.+Cande+Espeche.JPG",
                 "winners": false,
                 "github": "https://github.com/alexisrocha",
@@ -20,7 +20,7 @@ export default [
 
             },
             {
-                "name": "Bautista \"Cool\" Gonzalez",
+                "name": "Bautista \"Si hubièsemos tenido API\" Gonzalez",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/3.+Miguel+Angel+Escalera.JPG",
                 "winners": false,
                 "github": "https://github.com/bautigonzalez",
@@ -28,11 +28,11 @@ export default [
 
             },
             {
-                "name": "Bruno \"No me funca el mic\" Martinez",
+                "name": "Bruno \"Mic roto\" Martinez",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/4.+Alan+Fernandez.JPG",
                 "winners": false,
                 "github": "https://github.com/brunoml07",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/bruno-martinez-lomelli-9a18681b3/"
 
             },
             {
@@ -44,7 +44,7 @@ export default [
 
             },
             {
-                "name": "Dennis \"Edesur\" Romero",
+                "name": "Dennis \"El Resplandor\" Romero",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/6.+Alex+Kravchuk.JPG",
                 "winners": true,
                 "github": "https://github.com/dennismromeroa",
@@ -68,7 +68,7 @@ export default [
 
             },
             {
-                "name": "Gaston \"Connection Lost\" Trivi",
+                "name": "Gaston \"Conection Lost\" Trivi",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/9.+Jose+Chiquillo.JPG",
                 "winners": false,
                 "github": "https://github.com/decat",
@@ -84,7 +84,7 @@ export default [
 
             },
             {
-                "name": "Hernan\"Trello Freak\" Hlace",
+                "name": "Hernan\"Family Trello Freak\" Hlace",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/11.+Stephano+Iuccolino.JPG",
                 "winners": false,
                 "github": "https://github.com/hhlace",
@@ -100,14 +100,14 @@ export default [
 
             },
             {
-                "name": "Joaquin \"Youtuber\" Gaona",
+                "name": "Joaquin \"El Youtuber\" Gaona",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/13.+Nacho+Villasuso.JPG",
                 "winners": true,
                 "github": "https://github.com/joacogaona",
                 "linkedin": "https://www.linkedin.com/in/joaquingaona-fullstack/"
             },
             {
-                "name": "Luciano \"Dali\" Barone",
+                "name": "Luciano \"Picasso\" Barone",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/14.+Santino+Di+Liscia.JPG",
                 "winners": false,
                 "github": "https://github.com/Lucianobarone",
@@ -115,15 +115,15 @@ export default [
 
             },
             {
-                "name": "Matias \"El Noruego\" Ramos",
+                "name": "Matias \"Espacio Personal\" Ramos",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/15.+Roberto+Villa.JPG",
                 "winners": false,
                 "github": "https://github.com/MatiasRamosNOK",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/matias-nicolas-ramos/"
 
             },
             {
-                "name": "Nicolas \"esquijs\" Esquivel",
+                "name": "Nicolas \"Esquijs\" Esquivel",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/16.+Vico+Di+Liscia.JPG",
                 "winners": false,
                 "github": "https://github.com/NicolasEsqui01",
