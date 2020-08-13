@@ -31,16 +31,18 @@ const Course = ({ match }) => {
                                         <div className={c.cardBack}>
                                             <div className={c.containerp5}>
                                                 <img className={c.logop5} src="https://coursereport-s3-production.global.ssl.fastly.net/rich/rich_files/rich_files/6139/s200/logo-p5-rojo.gif"></img></div>
-                                            {elemento.winners ? (
-                                                <React.Fragment>
-                                                    <img className={c.corona} src="https://image.flaticon.com/icons/svg/720/720586.svg"></img>
-                                                    <h2 >{elemento.name}</h2>
-                                                </React.Fragment>)
-                                                : (<h2 className={c.margins} >{elemento.name}</h2>)}
-                                            <h3>Full Stack Developer</h3>
-                                            <div className={c.containerRedes}>
-                                                <a href={elemento.linkedin}><FontAwesomeIcon icon={faLinkedin} /></a>
-                                                <a href={elemento.github}><FontAwesomeIcon icon={faGithub} /></a>
+                                            <div className={c.containerLetters}>
+                                                {elemento.winners ? (
+                                                    <React.Fragment>
+                                                        <img className={c.corona} src="https://image.flaticon.com/icons/svg/720/720586.svg"></img>
+                                                        <h2 >{elemento.name}</h2>
+                                                    </React.Fragment>)
+                                                    : (<h2 className={c.margins} >{elemento.name}</h2>)}
+                                                <h3>Full Stack Developer</h3>
+                                                <div className={c.containerRedes}>
+                                                    <a href={elemento.linkedin}><FontAwesomeIcon icon={faLinkedin} /></a>
+                                                    <a href={elemento.github}><FontAwesomeIcon icon={faGithub} /></a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
