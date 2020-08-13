@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react"
+import { Link } from "react-router-dom"
 import courses from "../utils/dataCourse"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
@@ -25,7 +26,7 @@ const Course = ({ match }) => {
 
                             {selectedCourse.bootcampers.map((elemento) => {
                                 return (
-                                    <div className={c.card} key={elemento.id}>
+                                    <div className={c.card} key={elemento.name}>
                                         <div className={c.cardFront}><img src={elemento.img}></img></div>
                                         <div className={c.cardBack}>
                                             <div className={c.containerp5}>
@@ -38,8 +39,8 @@ const Course = ({ match }) => {
                                                 : (<h2 className={c.margins} >{elemento.name}</h2>)}
                                             <h3>Full Stack Developer</h3>
                                             <div className={c.containerRedes}>
-                                                <FontAwesomeIcon icon={faLinkedin} />
-                                                <FontAwesomeIcon icon={faGithub} />
+                                                <a href={elemento.linkedin}><FontAwesomeIcon icon={faLinkedin} /></a>
+                                                <a href={elemento.github}><FontAwesomeIcon icon={faGithub} /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -53,9 +54,9 @@ const Course = ({ match }) => {
                             <h4>La van a romper toda!</h4>
                         </div>
                         <div className={c.right}>
-                            {selectedCourse.tags ? (selectedCourse.tags.map((elemento, index) => {
+                            {selectedCourse.tags ? (selectedCourse.tags.map((elemento) => {
                                 return (
-                                    <h4 key={index} className={c.hashtag}>{elemento}</h4>
+                                    <h4 key={elemento} className={c.hashtag}>{elemento}</h4>
                                 )
                             })) : (null)}
                         </div>

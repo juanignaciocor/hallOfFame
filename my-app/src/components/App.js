@@ -9,7 +9,6 @@ function App() {
       <Switch>
         <Route exact path="/bootcamps/:curso" component={Course}></Route>
         <Route exact path="/bootcamps" component={Bootcamps}></Route>
-        <Redirect to="/bootcamps"></Redirect>
       </Switch>
     </div>
   );

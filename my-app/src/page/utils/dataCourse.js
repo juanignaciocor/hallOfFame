@@ -2,21 +2,21 @@ export default [
     {
         id: "mayo2020",
         courses: "Mayo 2020",
-        tags: ["#TeamBlack", "#CoronaCoding", "ViernesDeCamisa"],
+        tags: ["#LaCamadaDelCorona", "#Cuarentena2020", "Nose que poner"],
         bootcampers: [
             {
                 "name": "Alexis \"MDQ\" Rocha",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/1.+Cande+Espeche.JPG",
                 "winners": false,
                 "github": "https://github.com/alexisrocha",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/alexis-leonel-rocha-597b51120/"
             },
             {
                 "name": "Ariel \"Css Master\" Condorpocco",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/2.+Tato.JPG",
                 "winners": false,
                 "github": "https://github.com/ArielBlas",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/arielblas/"
 
             },
             {
@@ -24,7 +24,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/3.+Miguel+Angel+Escalera.JPG",
                 "winners": false,
                 "github": "https://github.com/bautigonzalez",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/juan-bautista-gonzalez-2b8027173/"
 
             },
             {
@@ -40,7 +40,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/5.+Luz+Testai.JPG",
                 "winners": true,
                 "github": "https://github.com/cristianlunachavarro",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/cristianlunachavarro"
 
             },
             {
@@ -48,7 +48,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/6.+Alex+Kravchuk.JPG",
                 "winners": true,
                 "github": "https://github.com/dennismromeroa",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/dennis-romero-arevalo-8b6229155/"
 
             },
             {
@@ -56,7 +56,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/7.+Lau+Limon.JPG",
                 "winners": true,
                 "github": "https://github.com/facundonovaro",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/facundonovaro/"
 
             },
             {
@@ -64,7 +64,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/8.+Caro+Fernandez.JPG",
                 "winners": true,
                 "github": "https://github.com/FlaviaCohen",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/flaviacohen/"
 
             },
             {
@@ -72,7 +72,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/9.+Jose+Chiquillo.JPG",
                 "winners": false,
                 "github": "https://github.com/decat",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/gast%C3%B3n-alejandro-trivi-95435240/"
 
             },
             {
@@ -80,7 +80,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/10.+Mati+Pugliese.JPG",
                 "winners": false,
                 "github": "https://github.com/vogui",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/guillermo-vogeler-medialdea-127b05139/"
 
             },
             {
@@ -88,7 +88,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/11.+Stephano+Iuccolino.JPG",
                 "winners": false,
                 "github": "https://github.com/hhlace",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/hernan-hlace/"
 
             },
             {
@@ -96,7 +96,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/12.+Jose+Layana.JPG",
                 "winners": false,
                 "github": "https://github.com/hgoldenberg",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/hernangoldenberg"
 
             },
             {
@@ -104,14 +104,14 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/13.+Nacho+Villasuso.JPG",
                 "winners": true,
                 "github": "https://github.com/joacogaona",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/joaquingaona-fullstack/"
             },
             {
                 "name": "Luciano \"Dali\" Barone",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/14.+Santino+Di+Liscia.JPG",
                 "winners": false,
                 "github": "https://github.com/Lucianobarone",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/luciano-barone-29885b183/"
 
             },
             {
@@ -127,7 +127,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/16.+Vico+Di+Liscia.JPG",
                 "winners": false,
                 "github": "https://github.com/NicolasEsqui01",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/nicoesquiveljs/"
 
             },
             {
@@ -135,7 +135,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/17.+Agus+Fregossi.JPG",
                 "winners": false,
                 "github": "https://github.com/sebasdominguez",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/sebassdominguez/"
 
             },
             {
@@ -143,14 +143,14 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/18.+Jose+Rosales.JPG",
                 "winners": true,
                 "github": "https://github.com/tgordyn",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/tom%C3%A1s-g-487802107/"
             },
             {
                 "name": "Vicky \"Mision Imposible\" Olavarria",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/19.+German+Torales.JPG",
                 "winners": false,
                 "github": "https://github.com/vickyolavarria",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/victoria-olavarria-82298679/"
 
             },
         ]
@@ -166,14 +166,14 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/1.+Cande+Espeche.JPG",
                 "winners": true,
                 "github": "https://github.com/candespeche",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/candespeche/"
             },
             {
                 "name": "Renato \"@tato @tato @tato\" Yañez",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/2.+Tato.JPG",
                 "winners": false,
                 "github": "https://github.com/renatoy",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/renato-y%C3%A1nez-b09b2615b/"
 
             },
             {
@@ -181,7 +181,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/3.+Miguel+Angel+Escalera.JPG",
                 "winners": false,
                 "github": "https://github.com/miguelescalera",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/miguel-escalera-71551a153/"
 
             },
             {
@@ -189,7 +189,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/4.+Alan+Fernandez.JPG",
                 "winners": false,
                 "github": "https://github.com/fernandezAlan",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/alan-fernandez-4845421a4/"
 
             },
             {
@@ -197,7 +197,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/5.+Luz+Testai.JPG",
                 "winners": false,
                 "github": "https://github.com/LuzTestai",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/luz-testai-928933187/"
 
             },
             {
@@ -205,7 +205,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/6.+Alex+Kravchuk.JPG",
                 "winners": false,
                 "github": "https://github.com/kravchukalex",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/alex-kravchuk/"
 
             },
             {
@@ -213,7 +213,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/7.+Lau+Limon.JPG",
                 "winners": false,
                 "github": "https://github.com/laulimon",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/lauralimonmolina/"
 
             },
             {
@@ -221,7 +221,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/8.+Caro+Fernandez.JPG",
                 "winners": false,
                 "github": "https://github.com/caroocat",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/caro-fdz/"
 
             },
             {
@@ -229,7 +229,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/9.+Jose+Chiquillo.JPG",
                 "winners": false,
                 "github": "https://github.com/jodch",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/jodch/"
 
             },
             {
@@ -237,7 +237,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/10.+Mati+Pugliese.JPG",
                 "winners": false,
                 "github": "https://github.com/Matiaspotti",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/matias-pugliese-2597b1193/"
 
             },
             {
@@ -245,7 +245,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/11.+Stephano+Iuccolino.JPG",
                 "winners": false,
                 "github": "https://github.com/stephanyes",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/stephano-iucciolino/"
 
             },
             {
@@ -253,7 +253,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/12.+Jose+Layana.JPG",
                 "winners": false,
                 "github": "https://github.com/joselayana",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/jose-layana-9010441a6/"
 
             },
             {
@@ -261,14 +261,14 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/13.+Nacho+Villasuso.JPG",
                 "winners": true,
                 "github": "https://github.com/NachoRodVil",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/ignaciorodvil/"
             },
             {
                 "name": "Santino \"Doctor\" Di Liscia",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/14.+Santino+Di+Liscia.JPG",
                 "winners": false,
                 "github": "https://github.com/SantiDiLiscia",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/santino-di-liscia/"
 
             },
             {
@@ -276,7 +276,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/15.+Roberto+Villa.JPG",
                 "winners": false,
                 "github": "https://github.com/robertovilla2102",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/roberto-villa2102/"
 
             },
             {
@@ -284,7 +284,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/16.+Vico+Di+Liscia.JPG",
                 "winners": false,
                 "github": "https://github.com/MissVico",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/vicodiliscia/"
 
             },
             {
@@ -292,7 +292,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/17.+Agus+Fregossi.JPG",
                 "winners": false,
                 "github": "https://github.com/Lange1990",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/agustinfregossi/"
 
             },
             {
@@ -300,14 +300,14 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/18.+Jose+Rosales.JPG",
                 "winners": true,
                 "github": "https://github.com/Jodaro2013",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/jose-rosales-ds/"
             },
             {
                 "name": "German \"Profe Particular\" Torales",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/19.+German+Torales.JPG",
                 "winners": false,
                 "github": "https://github.com/GermanTorales",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/german-torales/"
 
             },
             {
@@ -315,7 +315,7 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/20.+Celeste+Colamarino.JPG",
                 "winners": false,
                 "github": "https://github.com/CelesteColamarino",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/celeste-colamarino-a246a5191/"
             },
             {
                 "name": "Manu \"Podemos usar Drones\" Gamez",
@@ -329,21 +329,21 @@ export default [
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/22.+Juan+Cor.JPG",
                 "winners": false,
                 "github": "https://github.com/juanignaciocor",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/juanignaciocor/"
             },
             {
                 "name": "Ramiro \"SQLito\" Aragone",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/23.+Ramiro+Aragone.JPG",
                 "winners": false,
                 "github": "https://github.com/jraragone",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/jraragone/"
             },
             {
                 "name": "Ivan \"6.30hs\" Mercs",
                 "img": "https://hall-of-fame.s3-sa-east-1.amazonaws.com/24.+Ivan+Mercs.jpg",
                 "winners": false,
                 "github": "https://github.com/Imercs96",
-                "linkedin": ""
+                "linkedin": "https://www.linkedin.com/in/ivanmercs/"
             }
         ]
     }
